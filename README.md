@@ -1,8 +1,8 @@
 # Direct Address Table
 
 ## Introduction
-    Direct Address Table is a Data Structure cotaining (key, value) pairs. 
-    Since this is direct address, the index of the stored value is not a hash of the value, rather it is simply the created key associated with the value. 
+Direct Address Table is a Data Structure cotaining (key, value) pairs. 
+Since this is direct address, the index of the stored value is not a hash of the value, rather it is simply the created key associated with the value. 
 
 ## Classes
 - HashTable
@@ -19,10 +19,10 @@
 - delete(int k) deletes the Data with a key value of k
 
 ### Testing
-    Mutltiple tests have been implemented for each of these methods
+Mutltiple tests have been implemented for each of these methods
 
 ## Authors:
-    Zach Berman
+Zach Berman
 ## Acknowledgements:
-    Knowledge of how to implement a direct address table provided by Mr. Kuszmaul in Mr. Kuszmaul's Data Structures class at Kehillah Jewish High School
+Knowledge of how to implement a direct address table provided by Mr. Kuszmaul in Mr. Kuszmaul's Data Structures class at Kehillah Jewish High School
 
