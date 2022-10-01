@@ -5,11 +5,9 @@ Direct Address Table is a Data Structure cotaining (key, value) pairs.
 Since this is direct address, the index of the stored value is not a hash of the value, rather it is simply the specified key associated with the value. 
 
 ## Classes
-- HashTable
-
+### HashTable
 The Direct Address Table, implemented as an array of type Data
-- Data
-
+### Data
 Data simply contains an integer "key" and a String "value"
 
 ## Table Methods
