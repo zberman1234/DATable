@@ -6,8 +6,10 @@ Since this is direct address, the index of the stored value is not a hash of the
 
 ## Classes
 - HashTable
+
 The Direct Address Table, implemented as an array of type Data
 - Data
+
 Data simply contains an integer "key" and a String "value"
 
 ## Table Methods
